@@ -1,5 +1,5 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true" showingModally="onShownModally">
-    <GridLayout id="container">
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true" >
+    <GridLayout id="modal">
         <StackLayout orientation="vertical">
             <Label horizontalAlignment="right" id="main-title" text="In Pause Modal"/>
             <Button horizontalAlignment="center" text="Close" tap="closeModal"/>

@@ -1,0 +1,8 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true">
+    <GridLayout id="modal">
+        <StackLayout orientation="vertical">
+            <Label horizontalAlignment="right" id="main-title" text="Settings"/>
+            <Button horizontalAlignment="right" text="Back" tap="closeModal"/>
+        </StackLayout>
+    </GridLayout>
+</Page>
