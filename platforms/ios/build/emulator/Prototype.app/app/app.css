@@ -1,0 +1,32 @@
+﻿@import '~nativescript-theme-core/css/core.light.css';
+
+#container {
+    /* width: 300;
+    height: 300; */
+    background-color: #23395b;
+}
+
+StackLayout {
+    margin-top: 400px;
+}
+
+#main-title {
+    font-size: 56px;
+    font-family: Coolvetica;
+    color: #d4f6ff;
+    margin: 20px;
+}
+
+Button {
+    font-family: Coolvetica;
+    font-size: 28px;
+    background-color: #455b79;
+    color: #d4f6ff;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+

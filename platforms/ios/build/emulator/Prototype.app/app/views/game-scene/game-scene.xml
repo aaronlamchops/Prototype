@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true">
+    <GridLayout id="container">
+        <StackLayout orientation="vertical">
+            <Label horizontalAlignment="right" id="main-title" text="In Game Scene"/>
+            <Button horizontalAlignment="right" text="Back Home" tap="navigate_home"/>
+            <Button horizontalAlignment="right" text="Pause" tap="pause_modal"/>
+        </StackLayout>
+    </GridLayout>
+</Page>

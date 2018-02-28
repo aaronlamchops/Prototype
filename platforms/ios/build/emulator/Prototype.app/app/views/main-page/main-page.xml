@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true">
+    <GridLayout id="container">
+        <StackLayout orientation="vertical">
+            <Label horizontalAlignment="right" id="main-title" text="Prototype 0"/>
+            <Button horizontalAlignment="right" text="Start" tap="navigate_gamescene"/>
+            <Button horizontalAlignment="right"  text="Settings"/>
+            <Button horizontalAlignment="right"  text="About"/>
+        </StackLayout>
+    </GridLayout>
+</Page>
