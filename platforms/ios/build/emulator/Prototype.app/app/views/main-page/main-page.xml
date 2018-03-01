@@ -3,8 +3,8 @@
         <StackLayout orientation="vertical">
             <Label horizontalAlignment="right" id="main-title" text="Prototype 0"/>
             <Button horizontalAlignment="right" text="Start" tap="navigate_gamescene"/>
-            <Button horizontalAlignment="right"  text="Settings"/>
-            <Button horizontalAlignment="right"  text="About"/>
+            <Button horizontalAlignment="right"  text="Settings" tap="navigate_settings"/>
+            <Button horizontalAlignment="right"  text="About" tap="navigate_about"/>
         </StackLayout>
     </GridLayout>
 </Page>

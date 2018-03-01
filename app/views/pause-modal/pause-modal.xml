@@ -2,6 +2,7 @@
     <GridLayout id="modal">
         <StackLayout orientation="vertical">
             <Label horizontalAlignment="right" id="main-title" text="In Pause Modal"/>
+            <Button horizontalAlignment="center" text="Quit" tap="quit"/>
             <Button horizontalAlignment="center" text="Close" tap="closeModal"/>
         </StackLayout>
     </GridLayout>

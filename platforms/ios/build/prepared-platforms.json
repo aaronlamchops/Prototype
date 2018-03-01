@@ -1,4 +1,5 @@
 {
+    "nativescript-accelerometer": true,
     "nativescript-physics-js": true,
     "nativescript-theme-core": true,
     "tns-core-modules": true,

@@ -186,7 +186,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		YUm1i6gLjNJhnK8bEcXRPRVaV10=
+		fqH2M+qXn6RbOJK+wqytNCa0ic0=
 		</data>
 		<key>app/app.js</key>
 		<data>
@@ -207,6 +207,34 @@
 		<key>app/references.d.ts</key>
 		<data>
 		yDozBNmMJYY1mHH12KwQyKqK+Eg=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/.npmignore</key>
+		<data>
+		anpXlRrQwN/oelDxCulsl4Sa6o0=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/LICENSE</key>
+		<data>
+		F0IRaVV5uq/hpzFL/BH8Eo4E1gc=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/README.md</key>
+		<data>
+		6gezH0FWtFfk2HG8e3uavwKcZFE=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/index.d.ts</key>
+		<data>
+		10U2kpHLTTk29lK9WznzDUTaokU=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/index.js</key>
+		<data>
+		YbC2BXXDXcVqafLSQRCXAnlZaGA=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/package.json</key>
+		<data>
+		lptL2uKNsDdsaYJcuTt1XpjOJM0=
+		</data>
+		<key>app/tns_modules/nativescript-accelerometer/tsconfig.json</key>
+		<data>
+		s2DoThBaQKAmvOUyIWWHV/yOsfA=
 		</data>
 		<key>app/tns_modules/nativescript-physics-js/.npmignore</key>
 		<data>
@@ -1676,33 +1704,45 @@
 		<data>
 		IE4VL/0JSbGNFNPTxDKJNvG+Qk8=
 		</data>
-		<key>app/views/game-scene/game-scene.js</key>
-		<data>
-		hZXxp0v3SrUg5Ak7j6kmhKpR7sQ=
-		</data>
-		<key>app/views/game-scene/game-scene.xml</key>
-		<data>
-		ppQGp1fhJiclm80TWIPWjDqUQMQ=
-		</data>
-		<key>app/views/main-page/main-page.js</key>
-		<data>
-		vYb5HmmQ0hIvgkK+JyU/TdB660E=
-		</data>
-		<key>app/views/main-page/main-page.xml</key>
-		<data>
-		0OH/nK/5s4c9M8NH08YEYZhU1pg=
-		</data>
-		<key>app/views/main-page/main-view-model.js</key>
-		<data>
-		+XelK0+zH+mEQVYj91l+kUwkdQ0=
-		</data>
-		<key>app/views/pause-modal/pause-modal.js</key>
+		<key>app/views/about-screen/about-screen.js</key>
 		<data>
 		SqucNVc4DsQDjzivLc2X2feFjFQ=
 		</data>
+		<key>app/views/about-screen/about-screen.xml</key>
+		<data>
+		UyDg/mgzslsKrdjP0yt1TwSVgcI=
+		</data>
+		<key>app/views/game-scene/game-scene.js</key>
+		<data>
+		LCZg4CRNG+0v+2V1w8lsFKz2OrQ=
+		</data>
+		<key>app/views/game-scene/game-scene.xml</key>
+		<data>
+		n/BjrT3moiFK8RjUV3gM/+jPIJU=
+		</data>
+		<key>app/views/main-page/main-page.js</key>
+		<data>
+		Uy/4W3+3lZq+GVwid6Jzx7frLls=
+		</data>
+		<key>app/views/main-page/main-page.xml</key>
+		<data>
+		PJitJmGiLomfvuVOK7Vma2Y2Se0=
+		</data>
+		<key>app/views/pause-modal/pause-modal.js</key>
+		<data>
+		12lCSuEkJvktXU4pj5A+tXVfJus=
+		</data>
 		<key>app/views/pause-modal/pause-modal.xml</key>
 		<data>
-		OT1INiCYV/acrXvq26Y64gItSRQ=
+		SbAOkm1gMQA2PYLHJ6Bfk+0/9b8=
+		</data>
+		<key>app/views/settings-screen/settings-screen.js</key>
+		<data>
+		SqucNVc4DsQDjzivLc2X2feFjFQ=
+		</data>
+		<key>app/views/settings-screen/settings-screen.xml</key>
+		<data>
+		emN16xOmVUOaM74XtP8K3SWTIFo=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -2197,11 +2237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YUm1i6gLjNJhnK8bEcXRPRVaV10=
+			fqH2M+qXn6RbOJK+wqytNCa0ic0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ht2yT8LfpV+XGKgAHYjZggAhTjcTBU0ss7kCuv5ZAK4=
+			+XJeU1Kns+kHoA4nxhb2lcAakiKKWTrUlUi+cl9EkQY=
 			</data>
 		</dict>
 		<key>app/app.js</key>
@@ -2257,6 +2297,83 @@
 			<key>hash2</key>
 			<data>
 			X5pHYco8Emfivn+R0JfB7m2/Wmi+3nt0u8Es7slK14U=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/.npmignore</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			anpXlRrQwN/oelDxCulsl4Sa6o0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Y4ZkIKboXOhop0/9/niA6xlkRe6BNNj1I/A8nG/VhF8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F0IRaVV5uq/hpzFL/BH8Eo4E1gc=
+			</data>
+			<key>hash2</key>
+			<data>
+			bOfDr0/FlMvrMykdjHRqJ4YzqcVqJnVNbiJy36mthSg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6gezH0FWtFfk2HG8e3uavwKcZFE=
+			</data>
+			<key>hash2</key>
+			<data>
+			vwSwNVDX7nYGvJXtZpj8jdAJgbpr2CdccpP8OiH0lRA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			10U2kpHLTTk29lK9WznzDUTaokU=
+			</data>
+			<key>hash2</key>
+			<data>
+			dBgjQM+bfBhD+3BUSADbE5PvBSSjd4B1cShVtD8cBTM=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YbC2BXXDXcVqafLSQRCXAnlZaGA=
+			</data>
+			<key>hash2</key>
+			<data>
+			gCGGYUcW8SJTcDOpf2diaRcZUPDh+cPPNwPD4VV4Xpg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lptL2uKNsDdsaYJcuTt1XpjOJM0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gPYXIu8VfwSoFopfG486z0rfQsJGZx/839XTRoJ3wIs=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-accelerometer/tsconfig.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s2DoThBaQKAmvOUyIWWHV/yOsfA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Mj+bah589/dEH301JLVCH1jodhTFGGgXPnWNN5m9pWE=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-physics-js/.npmignore</key>
@@ -6296,62 +6413,7 @@
 			J7v2mo9rLPSi3NPhBw2hwVLL2zy2KEKlZ9Bv+1bS+MA=
 			</data>
 		</dict>
-		<key>app/views/game-scene/game-scene.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hZXxp0v3SrUg5Ak7j6kmhKpR7sQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			/pCWK8mu9T9M8fNkrqehbPWQtt7f5ITRy0TqzWTRFlY=
-			</data>
-		</dict>
-		<key>app/views/game-scene/game-scene.xml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ppQGp1fhJiclm80TWIPWjDqUQMQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			/jGhi58aId0yX5at87yKQv1OqZN1YFJk/MQ2d3lOEQk=
-			</data>
-		</dict>
-		<key>app/views/main-page/main-page.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vYb5HmmQ0hIvgkK+JyU/TdB660E=
-			</data>
-			<key>hash2</key>
-			<data>
-			VASKLQ5xjN0kJnej9U/F2L7k4PF1XTM74xFedpI86Pk=
-			</data>
-		</dict>
-		<key>app/views/main-page/main-page.xml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0OH/nK/5s4c9M8NH08YEYZhU1pg=
-			</data>
-			<key>hash2</key>
-			<data>
-			J+U7HiAxI9295Lie7XNPJZcSzvkbw1ReD7P+/C3skMk=
-			</data>
-		</dict>
-		<key>app/views/main-page/main-view-model.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+XelK0+zH+mEQVYj91l+kUwkdQ0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Un3i7m7zNw2vJ7zmk5YAadaAuQkDDmRo86+khGOQlVM=
-			</data>
-		</dict>
-		<key>app/views/pause-modal/pause-modal.js</key>
+		<key>app/views/about-screen/about-screen.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -6362,15 +6424,103 @@
 			5vAY4EuWVa/EJhyqyEIhhPOMskr7Zk3qWIUbIM5Nte8=
 			</data>
 		</dict>
+		<key>app/views/about-screen/about-screen.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UyDg/mgzslsKrdjP0yt1TwSVgcI=
+			</data>
+			<key>hash2</key>
+			<data>
+			cvs2OGueUfbqywRbnh60kQ942IMOUSL5NUVWsD5Hmxw=
+			</data>
+		</dict>
+		<key>app/views/game-scene/game-scene.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LCZg4CRNG+0v+2V1w8lsFKz2OrQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			rgiExkuuaAa+iE/4+kpho12O8bPK/3nTZkxb9PNS9eM=
+			</data>
+		</dict>
+		<key>app/views/game-scene/game-scene.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n/BjrT3moiFK8RjUV3gM/+jPIJU=
+			</data>
+			<key>hash2</key>
+			<data>
+			bOkb3yv8GjCC+e5kx9jD5+iZXCRScOsoPkntCWMqRsM=
+			</data>
+		</dict>
+		<key>app/views/main-page/main-page.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uy/4W3+3lZq+GVwid6Jzx7frLls=
+			</data>
+			<key>hash2</key>
+			<data>
+			hrsIAo7PDN4jy0weYjAVjvUeXdXpQzyXLwq5NNbRQ7k=
+			</data>
+		</dict>
+		<key>app/views/main-page/main-page.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PJitJmGiLomfvuVOK7Vma2Y2Se0=
+			</data>
+			<key>hash2</key>
+			<data>
+			1U/NaDJWBX2P2L9+nCOA/lNherTyl674SMhvP3vAhRE=
+			</data>
+		</dict>
+		<key>app/views/pause-modal/pause-modal.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			12lCSuEkJvktXU4pj5A+tXVfJus=
+			</data>
+			<key>hash2</key>
+			<data>
+			MLnMzHyUTV+psCCZrvXbpwk4w1zCZqAbvAmypRmjJo4=
+			</data>
+		</dict>
 		<key>app/views/pause-modal/pause-modal.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OT1INiCYV/acrXvq26Y64gItSRQ=
+			SbAOkm1gMQA2PYLHJ6Bfk+0/9b8=
 			</data>
 			<key>hash2</key>
 			<data>
-			vTPAfYAzj65fdaeVrv6jdt9VzH6LRts+EUtNewbobvI=
+			zClqPBH24YzZSXnvjBzHXwobOoL+s+Vlaxh+5GbmZvI=
+			</data>
+		</dict>
+		<key>app/views/settings-screen/settings-screen.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SqucNVc4DsQDjzivLc2X2feFjFQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			5vAY4EuWVa/EJhyqyEIhhPOMskr7Zk3qWIUbIM5Nte8=
+			</data>
+		</dict>
+		<key>app/views/settings-screen/settings-screen.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			emN16xOmVUOaM74XtP8K3SWTIFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			25OqLdiVPcs7TLyasbKiq7/OmysubTXHcIpt9+n09FE=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

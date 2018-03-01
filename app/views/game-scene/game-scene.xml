@@ -1,9 +1,7 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true">
-    <GridLayout id="container">
-        <StackLayout orientation="vertical">
-            <Label horizontalAlignment="right" id="main-title" text="In Game Scene"/>
-            <Button horizontalAlignment="right" text="Back Home" tap="navigate_home"/>
-            <Button horizontalAlignment="right" text="Pause" tap="pause_modal"/>
-        </StackLayout>
+    <GridLayout rows="*, auto" columns="*, auto" width="100%" height="100%" id="gamescene">
+        <AbsoluteLayout row="1" col="2" orientation="vertical">
+            <Button text="Pause" tap="pause_modal"/>
+        </AbsoluteLayout>
     </GridLayout>
 </Page>
