@@ -9,6 +9,11 @@ exports.navigate_gamescene = function() {
     topmost.navigate("views/game-scene/game-scene");
 };
 
+exports.navigate_webview = function() {
+    var topmost = frameModule.topmost();
+    topmost.navigate("views/webview/webview");
+};
+
 exports.navigate_settings = function(args) {
     const page = args.object.page;
     page.showModal("views/settings-screen/settings-screen", "context", function () {

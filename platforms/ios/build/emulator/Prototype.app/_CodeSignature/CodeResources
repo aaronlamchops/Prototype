@@ -62,7 +62,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		P4PsXde34wmc2xenpw4RredB9to=
+		KLbuun+uCXwvn1f09OZ8PL2MGl8=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		Y/PNOFNslhmcEM/FU/TnkXcEop4=
+		huhLPtxoCGkcrsdXlwIjGUtvKX0=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		A3wKZkrnbSFZ+NE6iFfQpWXMAHg=
+		02Eds/STf6CmlHkY2m/UzkOGsvU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -207,6 +207,170 @@
 		<key>app/references.d.ts</key>
 		<data>
 		yDozBNmMJYY1mHH12KwQyKqK+Eg=
+		</data>
+		<key>app/tns_modules/matter-js/CHANGELOG.md</key>
+		<data>
+		HAa3ApBBG034bpG4KJOv6E5617U=
+		</data>
+		<key>app/tns_modules/matter-js/LICENSE</key>
+		<data>
+		vP6vaz9xudRGqSS0/GskggTor2o=
+		</data>
+		<key>app/tns_modules/matter-js/README.md</key>
+		<data>
+		YQkaUrWpW3zy6Pp/37euhtXlm70=
+		</data>
+		<key>app/tns_modules/matter-js/build/matter-dev.js</key>
+		<data>
+		HeEXg6QRzYRsikHobRJqeQzJ/2Q=
+		</data>
+		<key>app/tns_modules/matter-js/build/matter-dev.min.js</key>
+		<data>
+		iSVB6H3C9ucKlmtKBWPLNupZGP4=
+		</data>
+		<key>app/tns_modules/matter-js/build/matter.js</key>
+		<data>
+		6gAQqzwEZB6TH8KK739P/wYVB3A=
+		</data>
+		<key>app/tns_modules/matter-js/build/matter.min.js</key>
+		<data>
+		pcrY/475Ku21nKaaw1Q7fHfWZx4=
+		</data>
+		<key>app/tns_modules/matter-js/package.json</key>
+		<data>
+		oqR97FqsCZhekuYmXTCPl00ZhYc=
+		</data>
+		<key>app/tns_modules/matter-js/src/body/Body.js</key>
+		<data>
+		XRlgZoKOdkYeTx3soebt1CIEMEE=
+		</data>
+		<key>app/tns_modules/matter-js/src/body/Composite.js</key>
+		<data>
+		xLjKIF+8SRQkNutsf+VfKRi2nvM=
+		</data>
+		<key>app/tns_modules/matter-js/src/body/World.js</key>
+		<data>
+		lKT4U17k8wcaf4rKy7XW0oJreG8=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Contact.js</key>
+		<data>
+		5tcK8kf3KQnUbNue3EEqSk22y1A=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Detector.js</key>
+		<data>
+		UjzugHvo+Bve4UoXlGYS4sE3c5o=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Grid.js</key>
+		<data>
+		hKHhOyxHJCOpHsx8GxwuXdKZN3E=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Pair.js</key>
+		<data>
+		QF7VR+I7grtHOfJpr7HvdtoRceE=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Pairs.js</key>
+		<data>
+		kzuz7VtUii3U2U0fESzU0lEdOKc=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Query.js</key>
+		<data>
+		Cxrqzd5KhJ7cLHLtSUrZbKVpGnc=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/Resolver.js</key>
+		<data>
+		B+NgJcfvu/nrmkoQ47unizIZBy0=
+		</data>
+		<key>app/tns_modules/matter-js/src/collision/SAT.js</key>
+		<data>
+		yPa1kMY0qWKt58gg1339eHdnfJs=
+		</data>
+		<key>app/tns_modules/matter-js/src/constraint/Constraint.js</key>
+		<data>
+		XdgjGs011YPaFn6M3vnHali6fUo=
+		</data>
+		<key>app/tns_modules/matter-js/src/constraint/MouseConstraint.js</key>
+		<data>
+		GjdrrXI4yQ47frddI3sa0W8yKt0=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Common.js</key>
+		<data>
+		8NJdqGl8EdnKtiZ4v6QztrEK1as=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Engine.js</key>
+		<data>
+		dlI41yQtbru6tlZAxXnNPG+JDtU=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Events.js</key>
+		<data>
+		VfZ2S1zDME+Sl0lvxfkoSwNCwoQ=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Matter.js</key>
+		<data>
+		LuI1SBsZDCdXKj4eZEbv9v7spRc=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Metrics.js</key>
+		<data>
+		mEDXYF2h721/E/w01QYbupRt/14=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Mouse.js</key>
+		<data>
+		wXgwufKQq1o/UfTqcLi3NobUVic=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Plugin.js</key>
+		<data>
+		EfIKZpqJjCQk8KTfI+4Dl8jhSXM=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Runner.js</key>
+		<data>
+		dHrV/MO0S54ePQbqGhNjQka6yzI=
+		</data>
+		<key>app/tns_modules/matter-js/src/core/Sleeping.js</key>
+		<data>
+		tptA8p9lwJUqbr72YKBurf0AH7E=
+		</data>
+		<key>app/tns_modules/matter-js/src/factory/Bodies.js</key>
+		<data>
+		0issE0ccjbNRbgq+uHHwT1yxgs0=
+		</data>
+		<key>app/tns_modules/matter-js/src/factory/Composites.js</key>
+		<data>
+		PLCfZ8EF6H3ihI9/cps2IqYoWok=
+		</data>
+		<key>app/tns_modules/matter-js/src/geometry/Axes.js</key>
+		<data>
+		a7iHgx78x/d0aIrHe4nl3jeds1A=
+		</data>
+		<key>app/tns_modules/matter-js/src/geometry/Bounds.js</key>
+		<data>
+		h/yeVjFPVi/NPfQoTEgsJVf6gl8=
+		</data>
+		<key>app/tns_modules/matter-js/src/geometry/Svg.js</key>
+		<data>
+		R7exM+ERTcOBpcXFX8CsL4Vp8O4=
+		</data>
+		<key>app/tns_modules/matter-js/src/geometry/Vector.js</key>
+		<data>
+		uJ6MiJNXqKjjAHiMrYDDZpIXl5w=
+		</data>
+		<key>app/tns_modules/matter-js/src/geometry/Vertices.js</key>
+		<data>
+		D0lzgnQe9TCq21Osi0DG+5c5QPM=
+		</data>
+		<key>app/tns_modules/matter-js/src/module/license.js</key>
+		<data>
+		UJLIBdZS/JGwwjLbVez4t8hHa5w=
+		</data>
+		<key>app/tns_modules/matter-js/src/module/main.js</key>
+		<data>
+		ls/CE0EwYuKCNHfR1v081onUGxY=
+		</data>
+		<key>app/tns_modules/matter-js/src/render/Render.js</key>
+		<data>
+		b4L+ZpxhG0XTpqxwwa+sUlI+6Bk=
+		</data>
+		<key>app/tns_modules/matter-js/src/render/RenderPixi.js</key>
+		<data>
+		pRd8OXTIUBC3no+KJ2CKn+518oc=
 		</data>
 		<key>app/tns_modules/nativescript-accelerometer/.npmignore</key>
 		<data>
@@ -675,6 +839,34 @@
 		<key>app/tns_modules/nativescript-theme-core/scss/utilities/_text.scss</key>
 		<data>
 		MV+ZX8kzvmw6pQYOINLgnG3jAZs=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/LICENSE</key>
+		<data>
+		pNiPNs9azStVH7A8JW1yEJBFP0g=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/README.md</key>
+		<data>
+		kR+tysWrrvqpuA813c6baqCS9S0=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/index-common.js</key>
+		<data>
+		J+ihrneIn2aWzaa0b7qEPsHQXis=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/index.d.ts</key>
+		<data>
+		JQzRIDPvxWvQrIm0Cz/abBtgPbI=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/index.js</key>
+		<data>
+		NKFKzGcj34Or8B1JU0z27Uoo6n4=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/package.json</key>
+		<data>
+		Oweym5V8ZTkTr5/ntaZMbhrtnsw=
+		</data>
+		<key>app/tns_modules/nativescript-webview-interface/www/nativescript-webview-interface.js</key>
+		<data>
+		vOlg4Wiecpq4Nn9D1cfV3mTp1a4=
 		</data>
 		<key>app/tns_modules/tns-core-modules-widgets/LICENSE</key>
 		<data>
@@ -1714,19 +1906,19 @@
 		</data>
 		<key>app/views/game-scene/game-scene.js</key>
 		<data>
-		LCZg4CRNG+0v+2V1w8lsFKz2OrQ=
+		iJ8aJ4Vj+0ex/APPXjUiLdcu7N4=
 		</data>
 		<key>app/views/game-scene/game-scene.xml</key>
 		<data>
-		n/BjrT3moiFK8RjUV3gM/+jPIJU=
+		5s8Hv6ksWHH1Je251pIz+zS0dIo=
 		</data>
 		<key>app/views/main-page/main-page.js</key>
 		<data>
-		Uy/4W3+3lZq+GVwid6Jzx7frLls=
+		A225ZH/Vdu4iWMtalsbrkAsSV1s=
 		</data>
 		<key>app/views/main-page/main-page.xml</key>
 		<data>
-		PJitJmGiLomfvuVOK7Vma2Y2Se0=
+		ZCODLs0BYC8tJ62HeMGkefOrmN0=
 		</data>
 		<key>app/views/pause-modal/pause-modal.js</key>
 		<data>
@@ -1743,6 +1935,18 @@
 		<key>app/views/settings-screen/settings-screen.xml</key>
 		<data>
 		emN16xOmVUOaM74XtP8K3SWTIFo=
+		</data>
+		<key>app/views/webview/webview.js</key>
+		<data>
+		sqeiWiTbUI0ODjZwnsJpcRjNMXI=
+		</data>
+		<key>app/views/webview/webview.xml</key>
+		<data>
+		htaQEVM2xw8/HsW5XGYd+qjlnSA=
+		</data>
+		<key>app/www/lib/nativescript-webview-interface.js</key>
+		<data>
+		vOlg4Wiecpq4Nn9D1cfV3mTp1a4=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -1918,11 +2122,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P4PsXde34wmc2xenpw4RredB9to=
+			KLbuun+uCXwvn1f09OZ8PL2MGl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			LC2Tu4w8bHvCbYUPcWWbeo6Ldx0tW3ryoBZadGqLGtk=
+			z/DiGKDMiIyFVlQbDm62reYV+qj6bfWVUQC6Xn6Nld0=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -2193,11 +2397,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y/PNOFNslhmcEM/FU/TnkXcEop4=
+			huhLPtxoCGkcrsdXlwIjGUtvKX0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7/NbOjsyh/3NJFxjk/GhTPZm1qXLAgcO1Zap6os4ljM=
+			v/muUfhy+yWaAkopf0C2WgW8yJmacSmStqhMsqn/8LU=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2215,11 +2419,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A3wKZkrnbSFZ+NE6iFfQpWXMAHg=
+			02Eds/STf6CmlHkY2m/UzkOGsvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			p1sUhcV1WbrDfLN/ObJrhB/DzjPcPf5WGssia4x8A+U=
+			bf2Ay3tsHlwCOcDSGT0HFtUs2nGCeXkilgurlCM0AkA=
 			</data>
 		</dict>
 		<key>app/LICENSE</key>
@@ -2297,6 +2501,457 @@
 			<key>hash2</key>
 			<data>
 			X5pHYco8Emfivn+R0JfB7m2/Wmi+3nt0u8Es7slK14U=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/CHANGELOG.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HAa3ApBBG034bpG4KJOv6E5617U=
+			</data>
+			<key>hash2</key>
+			<data>
+			n0H2QlMTuskklxxKrc+6wJRfFwgeaOc6UkIGH1VvgtE=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vP6vaz9xudRGqSS0/GskggTor2o=
+			</data>
+			<key>hash2</key>
+			<data>
+			7Rggh75bJnNKptR4l0PeOpdBeVDoweP/Lj0ZxkYnINM=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YQkaUrWpW3zy6Pp/37euhtXlm70=
+			</data>
+			<key>hash2</key>
+			<data>
+			dOZyf+JJ6BEVrGjF52xUJ8dYrh1yd+VJ6q59nt/zusI=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/build/matter-dev.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HeEXg6QRzYRsikHobRJqeQzJ/2Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			a4zDpbdRPCTAQYIZIsuoo9DfjIOGlk1J4Ty/XHWo/jM=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/build/matter-dev.min.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iSVB6H3C9ucKlmtKBWPLNupZGP4=
+			</data>
+			<key>hash2</key>
+			<data>
+			HnfHDz7SEcSf4F//MdvUQ4GOY9xkw10CFpNExWSpjtk=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/build/matter.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6gAQqzwEZB6TH8KK739P/wYVB3A=
+			</data>
+			<key>hash2</key>
+			<data>
+			qpwXsj+0mCBBe+ChVpW8Dmbx4CM6E/I5ZbfKVdEFExk=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/build/matter.min.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pcrY/475Ku21nKaaw1Q7fHfWZx4=
+			</data>
+			<key>hash2</key>
+			<data>
+			SjForD6DsqYjtfW85Lkem/fzrm/lmHFJsQfQUAxSj7w=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oqR97FqsCZhekuYmXTCPl00ZhYc=
+			</data>
+			<key>hash2</key>
+			<data>
+			vDbeuJKeXBdKQLLuOxgMXLC2FtMTv+W2EceJ4+9LnP4=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/body/Body.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XRlgZoKOdkYeTx3soebt1CIEMEE=
+			</data>
+			<key>hash2</key>
+			<data>
+			H/pyV6KPbwKWeEY0+rl1JwZkzI4ESCUt5YuRbCdzs4E=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/body/Composite.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xLjKIF+8SRQkNutsf+VfKRi2nvM=
+			</data>
+			<key>hash2</key>
+			<data>
+			lXRmPRSytrJujXuDEBNNtOBEDLJzn34cTKazdFHjlxQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/body/World.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lKT4U17k8wcaf4rKy7XW0oJreG8=
+			</data>
+			<key>hash2</key>
+			<data>
+			gRmvjcLwRUEn/nRRDELA5xef7pE3Jx3kHvw+nWWIJ2Q=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Contact.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5tcK8kf3KQnUbNue3EEqSk22y1A=
+			</data>
+			<key>hash2</key>
+			<data>
+			wNv46ZEi8TwPfanovXuuU3VoyeT2WJLiYvABJksZTmU=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Detector.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjzugHvo+Bve4UoXlGYS4sE3c5o=
+			</data>
+			<key>hash2</key>
+			<data>
+			N8SU8o4KXIb0Tf+FNEBnWbP0MCm550xnFWoEVuO1of0=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Grid.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hKHhOyxHJCOpHsx8GxwuXdKZN3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			KEEM79pXCaVrwqWKDlcAjnkttQY0IV8qS1a4Oq17Tbw=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Pair.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QF7VR+I7grtHOfJpr7HvdtoRceE=
+			</data>
+			<key>hash2</key>
+			<data>
+			yu+CJKwKBk08ezO2O/ZqpQhL6fYGWrBwnmb621MvPv0=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Pairs.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kzuz7VtUii3U2U0fESzU0lEdOKc=
+			</data>
+			<key>hash2</key>
+			<data>
+			WwWTwa29rj97/godplOUavZOHMiiHHTAv2JOuKYBCs0=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Query.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cxrqzd5KhJ7cLHLtSUrZbKVpGnc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kf93r6ZFvY3TsuAnxh7+CQX1LBWOcIWGKiRg3fBmZP8=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/Resolver.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B+NgJcfvu/nrmkoQ47unizIZBy0=
+			</data>
+			<key>hash2</key>
+			<data>
+			FQqb3FM5BOv3EqEBk2wv730KMVMFA3kLY469ppEZNZU=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/collision/SAT.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yPa1kMY0qWKt58gg1339eHdnfJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			fJLnNnN30h0NlcmKVDuVBeebXarKbatE87av0LA8NNk=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/constraint/Constraint.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XdgjGs011YPaFn6M3vnHali6fUo=
+			</data>
+			<key>hash2</key>
+			<data>
+			/aOv25S09tCAFOdyTry5WO3ih5/jiWSjxhPOWdSk2QM=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/constraint/MouseConstraint.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GjdrrXI4yQ47frddI3sa0W8yKt0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gEcoQODTrYjpBYMeIrOLhHxgAZVAeWY2ci3FgZgXwTE=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8NJdqGl8EdnKtiZ4v6QztrEK1as=
+			</data>
+			<key>hash2</key>
+			<data>
+			cpgmLemh0g2+IZQnAEJk63bDnBsEHraia2hko0fN9r0=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Engine.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dlI41yQtbru6tlZAxXnNPG+JDtU=
+			</data>
+			<key>hash2</key>
+			<data>
+			O2m4MOEC2j1pUEDfwglF//CLkNmWEej920JnBBMJ15U=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Events.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VfZ2S1zDME+Sl0lvxfkoSwNCwoQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			M0Nh/iB3yZHt3oKXd/tKwKGLml/xESvm5ir/hC2Ys28=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Matter.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LuI1SBsZDCdXKj4eZEbv9v7spRc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rcs7NagzOpG9UELnQOSHeLJu4/rgih8WV01XYIB8Luc=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Metrics.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mEDXYF2h721/E/w01QYbupRt/14=
+			</data>
+			<key>hash2</key>
+			<data>
+			h0iToy7d4qLlW/Phw3tu721+xmx9RwZwQD6qR5a+OeI=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Mouse.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wXgwufKQq1o/UfTqcLi3NobUVic=
+			</data>
+			<key>hash2</key>
+			<data>
+			IqpA4eZWJw9Urvg4UOBpwgAREXh3wk3lkk2LjPiUatc=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Plugin.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EfIKZpqJjCQk8KTfI+4Dl8jhSXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			tjrNXu7Aj91fGRKyngrqaAYoC4t9oRi+biTW4Z9PTQk=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Runner.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dHrV/MO0S54ePQbqGhNjQka6yzI=
+			</data>
+			<key>hash2</key>
+			<data>
+			En8ZffPS53r9EjXdfWs/qbVvnfhEk3jwXa51OP/lFZQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/core/Sleeping.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tptA8p9lwJUqbr72YKBurf0AH7E=
+			</data>
+			<key>hash2</key>
+			<data>
+			7+cwFS6e/T6WWSdgRlvTUoiYLnjIzjrAeZbhoWVr6wE=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/factory/Bodies.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0issE0ccjbNRbgq+uHHwT1yxgs0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pfl5eMblTsV2zf2uVfdx4LmVvd1Iapz36wpBdflXQr8=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/factory/Composites.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PLCfZ8EF6H3ihI9/cps2IqYoWok=
+			</data>
+			<key>hash2</key>
+			<data>
+			T5MWteX8oQLjqR8rJ2/zB00VjJeV/bAg4gG7RlQrLt4=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/geometry/Axes.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a7iHgx78x/d0aIrHe4nl3jeds1A=
+			</data>
+			<key>hash2</key>
+			<data>
+			t00SThnT24lECYhPPHw8ywjrWnQNNebajsD/53dqH+M=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/geometry/Bounds.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			h/yeVjFPVi/NPfQoTEgsJVf6gl8=
+			</data>
+			<key>hash2</key>
+			<data>
+			39WM4qRrK2SXOC1SxGyKFtA/EoZ8cfKav49799npsHg=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/geometry/Svg.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R7exM+ERTcOBpcXFX8CsL4Vp8O4=
+			</data>
+			<key>hash2</key>
+			<data>
+			BYlwM6uRIFW26bpIulVgFztiYxMIfEfQgSCgHW3zkfg=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/geometry/Vector.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uJ6MiJNXqKjjAHiMrYDDZpIXl5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			M6kuapnqP+Qikui6m6QU3GsApa73HAKqm9l1sF7u0gU=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/geometry/Vertices.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D0lzgnQe9TCq21Osi0DG+5c5QPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			nq7WuazJQmaTVAuVrrwNtqDGskkPPERGQdnATRqTYrs=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/module/license.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UJLIBdZS/JGwwjLbVez4t8hHa5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			hFgdJI69TwrHjWrexFERwQ+Bkgmmg8YkHjUtHJIt/gw=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/module/main.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ls/CE0EwYuKCNHfR1v081onUGxY=
+			</data>
+			<key>hash2</key>
+			<data>
+			NF6KS7QZjsuFuFM4d3mCAnx4fAgFjUx3S0kPV9L+Zls=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/render/Render.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b4L+ZpxhG0XTpqxwwa+sUlI+6Bk=
+			</data>
+			<key>hash2</key>
+			<data>
+			6vbxvDvTJWXnwC3t0cCvFIJvw9jwxcUXI3c/Oplpj2E=
+			</data>
+		</dict>
+		<key>app/tns_modules/matter-js/src/render/RenderPixi.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pRd8OXTIUBC3no+KJ2CKn+518oc=
+			</data>
+			<key>hash2</key>
+			<data>
+			guEgOnTFIilWa5Cr6mg3yAqCLzkoTYzURhPS25nbU4s=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-accelerometer/.npmignore</key>
@@ -3584,6 +4239,83 @@
 			<key>hash2</key>
 			<data>
 			+yVjy4T6c/PeYoiHHyWW6o3Xv/zSCouyEDBLL/UM3hI=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pNiPNs9azStVH7A8JW1yEJBFP0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			LYb/oHR8193yqA7eZ4sEe2/1jzuERU99wNr+dXSVnC8=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR+tysWrrvqpuA813c6baqCS9S0=
+			</data>
+			<key>hash2</key>
+			<data>
+			AHxiBOmMxDlnbz4dhg/FKTdgo/bouYgp6isMbarHJVk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/index-common.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J+ihrneIn2aWzaa0b7qEPsHQXis=
+			</data>
+			<key>hash2</key>
+			<data>
+			I/BDPmxP5Y833L7Uz9z4hI/8ZiEMoTS8HasQxqqjWFY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JQzRIDPvxWvQrIm0Cz/abBtgPbI=
+			</data>
+			<key>hash2</key>
+			<data>
+			iotvm9Tmh6W2S3TbSH/vWshE12EmoawtQCy7g7jKB7o=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NKFKzGcj34Or8B1JU0z27Uoo6n4=
+			</data>
+			<key>hash2</key>
+			<data>
+			iOrwsWcCRk/uzzAAUeCwIxhiXJsy10y9BjpmRAKc8Dg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oweym5V8ZTkTr5/ntaZMbhrtnsw=
+			</data>
+			<key>hash2</key>
+			<data>
+			+vCsunjv5g1KKP5jLIG+aL8Ou8tbn4YGlkBGMz7VNcA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-webview-interface/www/nativescript-webview-interface.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vOlg4Wiecpq4Nn9D1cfV3mTp1a4=
+			</data>
+			<key>hash2</key>
+			<data>
+			wKlJHc460whTbli9vY44yje7v+m3ImHQqRlYQ3lNV2k=
 			</data>
 		</dict>
 		<key>app/tns_modules/tns-core-modules-widgets/LICENSE</key>
@@ -6439,44 +7171,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LCZg4CRNG+0v+2V1w8lsFKz2OrQ=
+			iJ8aJ4Vj+0ex/APPXjUiLdcu7N4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rgiExkuuaAa+iE/4+kpho12O8bPK/3nTZkxb9PNS9eM=
+			pvv1A29j4dy1FNOgthBmAL6Me0hMkc0/R5JRo2o+8MQ=
 			</data>
 		</dict>
 		<key>app/views/game-scene/game-scene.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			n/BjrT3moiFK8RjUV3gM/+jPIJU=
+			5s8Hv6ksWHH1Je251pIz+zS0dIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			bOkb3yv8GjCC+e5kx9jD5+iZXCRScOsoPkntCWMqRsM=
+			3zxWRn1B7X6tHGWZrFYLoMFLMKla0Ce8f2bLdtNdtjE=
 			</data>
 		</dict>
 		<key>app/views/main-page/main-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Uy/4W3+3lZq+GVwid6Jzx7frLls=
+			A225ZH/Vdu4iWMtalsbrkAsSV1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			hrsIAo7PDN4jy0weYjAVjvUeXdXpQzyXLwq5NNbRQ7k=
+			t5tXjwy8qloFwnedcOGz4epk1c7wzhyYiGXFpSHe8WQ=
 			</data>
 		</dict>
 		<key>app/views/main-page/main-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PJitJmGiLomfvuVOK7Vma2Y2Se0=
+			ZCODLs0BYC8tJ62HeMGkefOrmN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			1U/NaDJWBX2P2L9+nCOA/lNherTyl674SMhvP3vAhRE=
+			4FRSXqkCv5oaMWUXG9c/BYTcPeDwPBPyRWuTSEsXN4g=
 			</data>
 		</dict>
 		<key>app/views/pause-modal/pause-modal.js</key>
@@ -6521,6 +7253,39 @@
 			<key>hash2</key>
 			<data>
 			25OqLdiVPcs7TLyasbKiq7/OmysubTXHcIpt9+n09FE=
+			</data>
+		</dict>
+		<key>app/views/webview/webview.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sqeiWiTbUI0ODjZwnsJpcRjNMXI=
+			</data>
+			<key>hash2</key>
+			<data>
+			E/E7i4yIQcdYchzWOcLg3PlV7fyIJK2VrcOtmKQ6y+E=
+			</data>
+		</dict>
+		<key>app/views/webview/webview.xml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			htaQEVM2xw8/HsW5XGYd+qjlnSA=
+			</data>
+			<key>hash2</key>
+			<data>
+			eIgDeNxoNxyP40GMFQ8/0fuX3PDDUYHB7iADRLI9ZIw=
+			</data>
+		</dict>
+		<key>app/www/lib/nativescript-webview-interface.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vOlg4Wiecpq4Nn9D1cfV3mTp1a4=
+			</data>
+			<key>hash2</key>
+			<data>
+			wKlJHc460whTbli9vY44yje7v+m3ImHQqRlYQ3lNV2k=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

@@ -22,3 +22,8 @@ exports.navigate_about = function(args) {
         console.log("modal opened");
     }, true);
 };
+
+exports.navigate_webview = function(args) {
+    var topmost = frameModule.topmost();
+    topmost.navigate("views/webview/webview");
+};
