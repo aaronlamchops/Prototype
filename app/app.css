@@ -34,6 +34,10 @@
     margin-right: 20px;
 }
 
+#webView {
+    background-color: #23395b;
+}
+
 #modal {
     background-color: #234b5b;
 }

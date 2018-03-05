@@ -1,3 +1,6 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="false" loaded="pageLoaded">
-    <web-view id="webView" src="~/www/index.html"></web-view>
+    <GridLayout rows="*, auto" columns="*, auto" width="100%" height="100%" id="gamescene">
+        <web-view id="webView" src="~/www/index.html"></web-view>
+        <!-- <WebView src="~/www/index.html"/> -->
+    </GridLayout>
 </Page>
