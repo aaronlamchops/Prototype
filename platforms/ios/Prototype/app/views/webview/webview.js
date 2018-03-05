@@ -3,18 +3,23 @@ var platformModule = require("tns-core-modules/platform");
 
 var oWebViewInterface;
 
-var specs = {
-    width: platformModule.screen.mainScreen.widthPixels/2,
-    height: platformModule.screen.mainScreen.heightPixels/2
-};
-
 // var specs = {
-//     width: 500,
-//     height: 500
+//     width: platformModule.screen.mainScreen.widthPixels/2,
+//     height: platformModule.screen.mainScreen.heightPixels/2
 // };
+
+var specs = {
+    width: 500,
+    height: 500
+};
 
 exports.pageLoaded = function(args){
     page = args.object;
+
+    var webView = page.getViewById('webView');      // allows for no scroll and bounce
+    webView.ios.scrollView.bounces = false;
+    webView.ios.scrollView.scrollEnabled = false;
+
     setupWebViewInterface(page);
     console.log('page loaded');
 }
