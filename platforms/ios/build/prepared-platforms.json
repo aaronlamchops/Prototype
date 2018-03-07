@@ -1,10 +1,10 @@
 {
     "matter-js": true,
     "nativescript-accelerometer": true,
-    "nativescript-canvas-interface": true,
+    "nativescript-loading-indicator": true,
     "nativescript-physics-js": true,
     "nativescript-theme-core": true,
-    "tns-core-modules": true,
     "nativescript-webview-interface": true,
+    "tns-core-modules": true,
     "tns-core-modules-widgets": true
 }

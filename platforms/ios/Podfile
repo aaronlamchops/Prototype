@@ -1,0 +1,9 @@
+use_frameworks!
+
+target "Prototype" do
+# Begin Podfile - /Users/aaron.lam/Google Drive/CODE/Side-Projects/nativescript/Prototype/node_modules/nativescript-loading-indicator/platforms/ios/Podfile 
+ pod 'MBProgressHUD'
+ 
+ # End Podfile 
+
+end

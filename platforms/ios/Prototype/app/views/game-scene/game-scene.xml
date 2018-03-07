@@ -1,13 +1,18 @@
-<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true" loaded="PhysicJSLoaded">
-    <GridLayout rows="*, auto" columns="*, auto" width="100%" height="100%" id="gamescene">
-
-        <GridLayout id="game"></GridLayout>
-        <WebView id="webView" src="~/www/index.html" visibility="collapse"></WebView>
-        <Label id="meta" visibility="collapsed"/>
-
-        <AbsoluteLayout row="1" col="2" orientation="vertical">
-            <Button text="Pause" tap="pause_modal"/>
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" class="page" actionBarHidden="true" loaded="pageLoaded">
+    <GridLayout>
+        <!-- Actual Content -->
+        <AbsoluteLayout rows="*, auto" width="100%" height="100%" id="gamescene" visibility="{{ loading ? 'collapsed' : 'visible' }}">
+            <GridLayout id="game" row="1" width="100%" height="100%">
+                <web-view id="webView" src="~/www/index.html"></web-view>
+            </GridLayout>
+                
+            <AbsoluteLayout row="1"  width="100%" height="75" orientation="vertical" style="background-color: rgba(102, 102, 102, .2);">
+                <Button text="Pause" tap="pause_modal" left="15" top="15"/>
+            </AbsoluteLayout>
         </AbsoluteLayout>
+        <!-- Loading Screen -->
+        <!-- <GridLayout rows="*" visibility="{{ loadingWebview ? 'visible' : 'collapsed' }}">
+            <ActivityIndicator busy="true" />
+        </GridLayout> -->
     </GridLayout>
-    
 </Page>

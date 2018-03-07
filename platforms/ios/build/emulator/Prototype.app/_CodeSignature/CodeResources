@@ -62,7 +62,19 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		KLbuun+uCXwvn1f09OZ8PL2MGl8=
+		1KCZwW5onlRWvctTXS+39zAzKJs=
+		</data>
+		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
+		<data>
+		EXfjpbK7xAUdZb1EwtsNgac92XY=
+		</data>
+		<key>Frameworks/MBProgressHUD.framework/MBProgressHUD</key>
+		<data>
+		jn7jRrRKy3poU5ViXwjuH2M1zJk=
+		</data>
+		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
+		<data>
+		3Bphz6/5SJ71rn3ke9RHn7gk8vo=
 		</data>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
 		<data>
@@ -166,7 +178,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		huhLPtxoCGkcrsdXlwIjGUtvKX0=
+		3r8yW5s8uRqUdIm+kPYfd/ImYLg=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -174,7 +186,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		02Eds/STf6CmlHkY2m/UzkOGsvU=
+		SmjlmxY1xKk8HjX1rMKPHvt02fg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -186,7 +198,7 @@
 		</data>
 		<key>app/app.css</key>
 		<data>
-		fqH2M+qXn6RbOJK+wqytNCa0ic0=
+		uBR4tzlEjaHFVxnKJKSkuzESHeU=
 		</data>
 		<key>app/app.js</key>
 		<data>
@@ -399,6 +411,50 @@
 		<key>app/tns_modules/nativescript-accelerometer/tsconfig.json</key>
 		<data>
 		s2DoThBaQKAmvOUyIWWHV/yOsfA=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/.editorconfig</key>
+		<data>
+		8lYmOYs42KaT2V64J0CQhh9Hgbw=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/CONTRIBUTING.md</key>
+		<data>
+		kKKyYMNbHJbXUYUvKeyIvPYOC8M=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/LICENSE</key>
+		<data>
+		lYhn7NpelQRXPfhUwEryStHRXVU=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/README.md</key>
+		<data>
+		5AkEzboxBUrnSoGyoM+LMVDHO10=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/index.d.ts</key>
+		<data>
+		JRqhey/5SM5bjT+GU8v9+gYy7kI=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/loading-indicator.js</key>
+		<data>
+		nSdEEuKsleEV9aXA5zlS1vWpvhw=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/package.json</key>
+		<data>
+		F8X8JiMCrjkQs0JBrvvVjbhtNTc=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/src/android/progress-dialog.js</key>
+		<data>
+		O1PZgpF/yQ0SR35gJuZ9ItURjrY=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/src/interfaces.js</key>
+		<data>
+		tm7a5Im25BR85+HsZaEH4pchl3E=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/src/ios/mbprogress-hud.js</key>
+		<data>
+		Cm15UhMEiHJJIVXSVdOin0OnIhw=
+		</data>
+		<key>app/tns_modules/nativescript-loading-indicator/tsconfig.json</key>
+		<data>
+		Zg7LNVk0OBdpPHl0SaVNd7kWIqM=
 		</data>
 		<key>app/tns_modules/nativescript-physics-js/.npmignore</key>
 		<data>
@@ -1906,19 +1962,19 @@
 		</data>
 		<key>app/views/game-scene/game-scene.js</key>
 		<data>
-		iJ8aJ4Vj+0ex/APPXjUiLdcu7N4=
+		NSI5cldPMFDb0uM7f0GVTLh0nIM=
 		</data>
 		<key>app/views/game-scene/game-scene.xml</key>
 		<data>
-		5s8Hv6ksWHH1Je251pIz+zS0dIo=
+		zf5qdRWf+JkN6YbQqy+iKDJ4EWY=
 		</data>
 		<key>app/views/main-page/main-page.js</key>
 		<data>
-		A225ZH/Vdu4iWMtalsbrkAsSV1s=
+		qLGu2zlY8B6XzlBL/IeBMhvD7vE=
 		</data>
 		<key>app/views/main-page/main-page.xml</key>
 		<data>
-		ZCODLs0BYC8tJ62HeMGkefOrmN0=
+		c6vC3hM1mi7m9eXHzsp3J7DR/Ts=
 		</data>
 		<key>app/views/pause-modal/pause-modal.js</key>
 		<data>
@@ -1938,15 +1994,27 @@
 		</data>
 		<key>app/views/webview/webview.js</key>
 		<data>
-		sqeiWiTbUI0ODjZwnsJpcRjNMXI=
+		UUWQYv46WqD2VAiKDaJKMUguN90=
 		</data>
 		<key>app/views/webview/webview.xml</key>
 		<data>
-		htaQEVM2xw8/HsW5XGYd+qjlnSA=
+		a7Mb56EB207Zssxb06dv8OWMTxE=
+		</data>
+		<key>app/www/index.html</key>
+		<data>
+		EbmOJ0gN53j8vEw8Gn5bAS91Jrs=
+		</data>
+		<key>app/www/index.js</key>
+		<data>
+		YTi36Zf2lBJGyhmvIcFI8xdFTwY=
 		</data>
 		<key>app/www/lib/nativescript-webview-interface.js</key>
 		<data>
 		vOlg4Wiecpq4Nn9D1cfV3mTp1a4=
+		</data>
+		<key>app/www/physics.js</key>
+		<data>
+		BJ7O+qRUAMaN2nKUby48soH+tFI=
 		</data>
 		<key>build.xcconfig</key>
 		<data>
@@ -2122,11 +2190,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KLbuun+uCXwvn1f09OZ8PL2MGl8=
+			1KCZwW5onlRWvctTXS+39zAzKJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/DiGKDMiIyFVlQbDm62reYV+qj6bfWVUQC6Xn6Nld0=
+			Ln9lXETUTd8DFhTbDTos/Qbw7X7euD7SEjZCZ7do8XY=
+			</data>
+		</dict>
+		<key>Frameworks/MBProgressHUD.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EXfjpbK7xAUdZb1EwtsNgac92XY=
+			</data>
+			<key>hash2</key>
+			<data>
+			OwwRYy2AVCBGJeMWJvOi7fZICTJkaegOU8mhY0x01mc=
+			</data>
+		</dict>
+		<key>Frameworks/MBProgressHUD.framework/MBProgressHUD</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jn7jRrRKy3poU5ViXwjuH2M1zJk=
+			</data>
+			<key>hash2</key>
+			<data>
+			7QpQhQZT+m/Wms0tJXFU79YN0qiWixbxgNSYjI/sVFo=
+			</data>
+		</dict>
+		<key>Frameworks/MBProgressHUD.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3Bphz6/5SJ71rn3ke9RHn7gk8vo=
+			</data>
+			<key>hash2</key>
+			<data>
+			7oBaMsTAH2Q5jbPpV9MeMTcafrD6W/yYgycEdOruf1E=
 			</data>
 		</dict>
 		<key>Frameworks/NativeScript.framework/Info.plist</key>
@@ -2397,11 +2498,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			huhLPtxoCGkcrsdXlwIjGUtvKX0=
+			3r8yW5s8uRqUdIm+kPYfd/ImYLg=
 			</data>
 			<key>hash2</key>
 			<data>
-			v/muUfhy+yWaAkopf0C2WgW8yJmacSmStqhMsqn/8LU=
+			XGVEYoCqzHgZ+jX7C7KdyaOlYlIoZ53PogiSeJpVqO4=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -2419,11 +2520,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			02Eds/STf6CmlHkY2m/UzkOGsvU=
+			SmjlmxY1xKk8HjX1rMKPHvt02fg=
 			</data>
 			<key>hash2</key>
 			<data>
-			bf2Ay3tsHlwCOcDSGT0HFtUs2nGCeXkilgurlCM0AkA=
+			sdsGPeiTZr3OTmyNvWF5elYLD4o1nkwpjP6EILANmJE=
 			</data>
 		</dict>
 		<key>app/LICENSE</key>
@@ -2441,11 +2542,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fqH2M+qXn6RbOJK+wqytNCa0ic0=
+			uBR4tzlEjaHFVxnKJKSkuzESHeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+XJeU1Kns+kHoA4nxhb2lcAakiKKWTrUlUi+cl9EkQY=
+			msUAWuseSwQe9RuYxfBbaeBzkCzTDV/yxf8VZAO5S3M=
 			</data>
 		</dict>
 		<key>app/app.js</key>
@@ -3029,6 +3130,127 @@
 			<key>hash2</key>
 			<data>
 			Mj+bah589/dEH301JLVCH1jodhTFGGgXPnWNN5m9pWE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/.editorconfig</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8lYmOYs42KaT2V64J0CQhh9Hgbw=
+			</data>
+			<key>hash2</key>
+			<data>
+			D3zMVIth8Unh82WGfdqs9ML8HElyMcAnch/o9dov2aQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/CONTRIBUTING.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kKKyYMNbHJbXUYUvKeyIvPYOC8M=
+			</data>
+			<key>hash2</key>
+			<data>
+			t1KiFGw1yF5wBCl8OOwRphbyyR8FQBB61rO3VJGSEIo=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lYhn7NpelQRXPfhUwEryStHRXVU=
+			</data>
+			<key>hash2</key>
+			<data>
+			uk91zkOfA/PuteE8I5xMtLtm/ucTIHlRmdkU3iS9anQ=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5AkEzboxBUrnSoGyoM+LMVDHO10=
+			</data>
+			<key>hash2</key>
+			<data>
+			AY+gPbyHVMQDSYZkXoW1rLG3/Vn9irttO6QXeCgHm/k=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JRqhey/5SM5bjT+GU8v9+gYy7kI=
+			</data>
+			<key>hash2</key>
+			<data>
+			hcQwFZW5k/HxldUv0d2RcWxryd77O94keEqY+GE3Hg0=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/loading-indicator.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nSdEEuKsleEV9aXA5zlS1vWpvhw=
+			</data>
+			<key>hash2</key>
+			<data>
+			1rmpMfWg04neBZQG07pzyMzf69B/w1a412h0BXeaHnY=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F8X8JiMCrjkQs0JBrvvVjbhtNTc=
+			</data>
+			<key>hash2</key>
+			<data>
+			tIPJFIrz7gffr+9TPQ/e9XXbjSU8BHcfY7WqJATbpfk=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/src/android/progress-dialog.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			O1PZgpF/yQ0SR35gJuZ9ItURjrY=
+			</data>
+			<key>hash2</key>
+			<data>
+			S/+mmICc3P13KTJJYMVPkuA5GZZ2RhlNVHC7ZmAHDkg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/src/interfaces.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tm7a5Im25BR85+HsZaEH4pchl3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			1DqoH1vIn6o1ng+XyBS6JRVVkf8Hj7ub/UD4x8loMjA=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/src/ios/mbprogress-hud.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Cm15UhMEiHJJIVXSVdOin0OnIhw=
+			</data>
+			<key>hash2</key>
+			<data>
+			O0WqTQ40Fh1fWLSwu+Nct0/Zy8UTIj4PWfCQfsh7JUg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-loading-indicator/tsconfig.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Zg7LNVk0OBdpPHl0SaVNd7kWIqM=
+			</data>
+			<key>hash2</key>
+			<data>
+			tgXv8DI6gImEGntBBlm47igxdAMzYjgqhmfy4JnGHsM=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-physics-js/.npmignore</key>
@@ -7171,44 +7393,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iJ8aJ4Vj+0ex/APPXjUiLdcu7N4=
+			NSI5cldPMFDb0uM7f0GVTLh0nIM=
 			</data>
 			<key>hash2</key>
 			<data>
-			pvv1A29j4dy1FNOgthBmAL6Me0hMkc0/R5JRo2o+8MQ=
+			O4k8Ap6I3QIxmXKG6lN0b2mJ2zyF2TdXUAaqMkWHo1Q=
 			</data>
 		</dict>
 		<key>app/views/game-scene/game-scene.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5s8Hv6ksWHH1Je251pIz+zS0dIo=
+			zf5qdRWf+JkN6YbQqy+iKDJ4EWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			3zxWRn1B7X6tHGWZrFYLoMFLMKla0Ce8f2bLdtNdtjE=
+			u31tYS7V+KTIyce5HLqp0PjEI030kHNmFbdqyYZCyE0=
 			</data>
 		</dict>
 		<key>app/views/main-page/main-page.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A225ZH/Vdu4iWMtalsbrkAsSV1s=
+			qLGu2zlY8B6XzlBL/IeBMhvD7vE=
 			</data>
 			<key>hash2</key>
 			<data>
-			t5tXjwy8qloFwnedcOGz4epk1c7wzhyYiGXFpSHe8WQ=
+			UP4fj4e+qg2zYTJIcyah8gOqzXYuq+5tY4YSzNsiLTo=
 			</data>
 		</dict>
 		<key>app/views/main-page/main-page.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZCODLs0BYC8tJ62HeMGkefOrmN0=
+			c6vC3hM1mi7m9eXHzsp3J7DR/Ts=
 			</data>
 			<key>hash2</key>
 			<data>
-			4FRSXqkCv5oaMWUXG9c/BYTcPeDwPBPyRWuTSEsXN4g=
+			15HWbBml8MsuUfKlagb/P44IDtHMBPMQlAm8oF5qtnA=
 			</data>
 		</dict>
 		<key>app/views/pause-modal/pause-modal.js</key>
@@ -7259,22 +7481,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sqeiWiTbUI0ODjZwnsJpcRjNMXI=
+			UUWQYv46WqD2VAiKDaJKMUguN90=
 			</data>
 			<key>hash2</key>
 			<data>
-			E/E7i4yIQcdYchzWOcLg3PlV7fyIJK2VrcOtmKQ6y+E=
+			p98xEtTWOvE0n1xml2ArjEnRnqxWpyvid8wx5e90Oso=
 			</data>
 		</dict>
 		<key>app/views/webview/webview.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			htaQEVM2xw8/HsW5XGYd+qjlnSA=
+			a7Mb56EB207Zssxb06dv8OWMTxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			eIgDeNxoNxyP40GMFQ8/0fuX3PDDUYHB7iADRLI9ZIw=
+			aTo2gLkhcpOM/x9+2eI/XwIsDqR3l3VkjMO+CA917tI=
+			</data>
+		</dict>
+		<key>app/www/index.html</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EbmOJ0gN53j8vEw8Gn5bAS91Jrs=
+			</data>
+			<key>hash2</key>
+			<data>
+			QprhuqQRWE+No/++5HeZFF+sMIKMzHwkU71658u83VU=
+			</data>
+		</dict>
+		<key>app/www/index.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YTi36Zf2lBJGyhmvIcFI8xdFTwY=
+			</data>
+			<key>hash2</key>
+			<data>
+			d2vNsRfEUGkS+XLz2cObxma5fPsir+uNWBeCArk3Qmo=
 			</data>
 		</dict>
 		<key>app/www/lib/nativescript-webview-interface.js</key>
@@ -7286,6 +7530,17 @@
 			<key>hash2</key>
 			<data>
 			wKlJHc460whTbli9vY44yje7v+m3ImHQqRlYQ3lNV2k=
+			</data>
+		</dict>
+		<key>app/www/physics.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BJ7O+qRUAMaN2nKUby48soH+tFI=
+			</data>
+			<key>hash2</key>
+			<data>
+			kEKPnNQsR8xiAau//ApDhMTvCYB88LPwCLtv0w2oiAM=
 			</data>
 		</dict>
 		<key>build.xcconfig</key>

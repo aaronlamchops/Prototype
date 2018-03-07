@@ -1,7 +1,13 @@
 var frameModule = require("ui/frame");
+var gridModule = require("ui/layouts/grid-layout");
+var gestures = require("ui/gestures");
 
-exports.basicAction = function() {
-    console.log("Button Pressed");
+exports.onLoaded = function(args) {
+    var page = args.object;
+    var myStack = page.getViewById("container");
+    myStack.on(gestures.GestureTypes.swipe, function(args){
+        console.log("SWIPED");
+    });
 };
 
 exports.navigate_gamescene = function() {
